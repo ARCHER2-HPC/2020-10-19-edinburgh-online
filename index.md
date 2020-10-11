@@ -75,6 +75,10 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<h2>Registration</h2>
+<p>Please use the <a href="https://events.prace-ri.eu/event/1080/registrations/780/">PRACE course registration form</a> to sign up for the workshop.</p>
+
+<hr/>
 
 <h2 id="general">General Information</h2>
 
